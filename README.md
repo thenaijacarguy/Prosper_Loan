@@ -1,6 +1,3 @@
-# Prosper Loan Data Exploration
-
-## Dataset
 
 The Prosper Loan dataset contains information about over 110,000 loan listings and 81 varaibles pointing to a number of factors relating to  the loan. Some popular variables include:
 - Loan Status - Indicating the status of the loan. Whether it's cancelled, completed, defaulted or even past due date.
